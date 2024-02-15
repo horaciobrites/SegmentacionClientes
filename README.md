@@ -108,3 +108,6 @@ Diseñar ofertas y promociones específicas que se ajusten a las preferencias y 
 
 *Mejora Continua:*
 Es importante realizar un seguimiento continuo y análisis de los resultados de las campañas de marketing, así como de los cambios en las características y comportamientos de nuestros clientes, para adaptar nuestras estrategias de manera efectiva y mantenernos competitivos en el mercado. Seria interesante realizar un sistema de scoring de los clientes para ordenarlos por mayor probabilidad de conversión
+
+METADATA
+https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
